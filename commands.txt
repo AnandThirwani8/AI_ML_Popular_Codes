@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 # Git Email
 git config --global user.email
-git config --global user.email "your-github-email@example.com"
+git config --global user.email "your-github-email@examplegit remote remove origin.com"
 
 # Git
 git add .           
