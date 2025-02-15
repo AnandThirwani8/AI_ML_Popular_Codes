@@ -1,8 +1,13 @@
+ipykernel
 numpy
 pandas
 scikit-learn
 matplotlib
 seaborn 
 tensorflow
+tensorflow-metal 
+tensorflow-macos
 nltk
 spacy
+transformers
+tf-keras
