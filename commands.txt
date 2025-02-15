@@ -10,6 +10,10 @@ conda activate venv/
 pip install ipykernel
 pip install -r requirements.txt
 
+# If you need to delete the environment
+conda env remove --prefix ./venv 
+rm -rf ./venv
+
 # Git Email
 git config --global user.email
 git config --global user.email "your-github-email@example.com"
