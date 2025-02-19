@@ -1,4 +1,5 @@
 ipykernel
+ipywidgets
 numpy
 pandas
 scikit-learn
@@ -13,3 +14,6 @@ transformers
 tf-keras
 imbalanced-learn
 nbconvert
+torch
+datasets
+accelerate

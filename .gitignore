@@ -6,6 +6,7 @@
 *.secret
 venv/
 CNN/mnist_sample_data
+NLP/results
 
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
