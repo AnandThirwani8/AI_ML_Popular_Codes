@@ -12,3 +12,4 @@ spacy
 transformers
 tf-keras
 imbalanced-learn
+nbconvert
