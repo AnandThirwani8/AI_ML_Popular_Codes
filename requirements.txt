@@ -17,3 +17,5 @@ nbconvert
 torch
 datasets
 accelerate
+peft
+sentencepiece
